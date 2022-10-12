@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🤔 [My blog](https://www.Kinasha.github.io) 
+- 🤔 [My blog](https:\/\/kinasha.github.io/)
 - 🔭 I’m currently working on figma plugin
 - 🌱 I’m currently learning Node.js  / D2C
 - 😄 Ask me anything , reach me by sending email 
