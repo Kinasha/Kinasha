@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+- 🤔 [My blog](https://www.kinasha.github.io) 
+- 🔭 I’m currently working on figma plugin
+- 🌱 I’m currently learning Node.js  / D2C
+- 😄 Ask me anything , reach me by sending email 
+- ⚡ Fun fact: ...
 ![](https://raw.githubusercontent.com/Kinasha/Kinasha/main/assets/github-contribution-grid-snake.svg)
 ![Kinasha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kinasha&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kinasha&layout=compact)
